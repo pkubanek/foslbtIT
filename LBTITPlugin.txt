@@ -1,0 +1,29 @@
+---+ !LBT IT Plugin
+
+Registes IT macro to display links
+
+---++ Syntax Rules
+
+%IT{id="xxxx"}%
+
+---++ Settings
+
+   * Set LBTITURL = "https://lbt.issuetrak.com/CSIssue_View.asp?IssueNbr="
+
+---++ Plugin Info
+
+|  Plugin Author: | Petr Kubanek |
+|  Copyright: | ? 2019, LBTO |
+|  License: | GPL ([[http://www.gnu.org/copyleft/gpl.html][GNU General Public License]]) |
+|  Release: | %$RELEASE% |
+|  Version: | %$VERSION% |
+|  Change History: | <!-- versions below in reverse order -->&nbsp; |
+|  24 Oct 2019: | Initial version |
+|  Foswiki Dependency: | $Foswiki::Plugins::VERSION 1.1 |
+|  CPAN Dependencies: | none |
+|  Other Dependencies: | none |
+|  Perl Version: | 5.006 |
+|  Plugin Home: | http://foswiki.org/Extensions/%TOPIC% |
+|  Feedback: | http://foswiki.org/Development/%TOPIC% |
+
+__Related Topics:__ [[%SYSTEMWEB%.Plugins][Plugins]], %SYSTEMWEB%.DeveloperDocumentationCategory, %SYSTEMWEB%.AdminDocumentationCategory, %SYSTEMWEB%.DefaultPreferences
