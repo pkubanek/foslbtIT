@@ -1,4 +1,4 @@
 * Description
 
-Based on [[https://foswiki.org/Development/HowToMakeSimplePlugin][tutorial]].
+Based on [tutorial](https://foswiki.org/Development/HowToMakeSimplePlugin).
 See it for how to install it.
